@@ -1,0 +1,32 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+    color: rgba(17, 195, 46, 0.505);
+    font-weight: bold;
+      font-family: "Dancing Script", cursive;
+    letter-spacing: 2px;
+
+}
+.vibes{
+    text-align: justify;
+
+}
+a{
+    text-decoration: none;
+    text-decoration: black;
+}
+
+#video{
+    letter-spacing: 3px;
+}
+#form{
+    text-align: center;
+    
+}
+#order {
+    font-size: medium;
+}
